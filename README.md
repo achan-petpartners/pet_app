@@ -1,4 +1,4 @@
-# PetApp
+# Pet App
 
 To start your Phoenix server:
 
